@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "696832531835",
+    "firebase_url": "https://pdf-board.firebaseio.com",
+    "project_id": "pdf-board",
+    "storage_bucket": "pdf-board.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696832531835:android:e4544059ffd9ba45",
+        "android_client_info": {
+          "package_name": "com.example.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696832531835-6u8i9l3fh1gd5utqs9s4cs4ba7prap5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminapp",
+            "certificate_hash": "bcda1707fc527bbc8762f403a44c334caeddab4b"
+          }
+        },
+        {
+          "client_id": "696832531835-o9eig29ndjto3imkm8teqaout66mgbuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgswik2XdX15RlpjPSHdp1Sz2GMztH4GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696832531835-o9eig29ndjto3imkm8teqaout66mgbuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
